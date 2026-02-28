@@ -1,0 +1,6 @@
+{
+  "API_KEY": "SeuToken",
+  "BASE_URL": "http://node.tconect.xyz:1116/api/consulta",
+  "NOME_PAINEL": "CONSULTAS VIP",
+  "DELAY_ANIMACAO": 100
+}
