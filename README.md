@@ -44,7 +44,7 @@ pkg install git -y
 
 4. **Clone o repositório:**
 ```bash
-git clone https://github.com/SEU-USUARIO/panel-consulte.git
+git clone https://github.com/KimereLs/panel-consulte.git
 ```
 
 5. **Entre na pasta:**
